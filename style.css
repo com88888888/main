@@ -1,0 +1,90 @@
+.top {
+    margin-top: 20px;
+    display: flex;
+}
+.top img {
+    margin-left: 10px;
+}
+.top p {
+    margin-left: 150px;
+    font-size: large;
+    font-family: "Montserrat", serif;
+}
+.prr {
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.Incryptor h1 {
+    font-family: "Oswald", serif;
+    text-align: center;
+    padding-top: 6%;
+    color:white;
+}
+.Incryptor p {
+    font-family: "Montserrat", serif;
+    text-align: center;
+    color: white;
+}
+.Incryptor {
+    width: 100%;
+    height: 50%;
+    background-image: url(encryption_1-20802316531.jpg);
+    background-position: center;
+    background-size: cover;
+    border-width: 2px;
+    border-radius: 25px;
+    border-style: hidden;
+}
+.Sites h1 {
+    font-family: "Oswald", serif;
+    text-align: center;
+    padding-top: 6%;
+    color: white;
+}
+.Sites p {
+    font-family: "Montserrat", serif;
+    text-align: center;
+    color: white;
+}
+.Sites {
+    width: 100%;
+    height: 50%;
+    background-image: url(code_symbols_programming_178845_1280x720-20205667011.jpg);
+    background-position: center;
+    background-size: cover;
+    border-width: 2px;
+    border-radius: 25px;
+    border-style: hidden;
+}
+.Chess h1 {
+    font-family: "Oswald", serif;
+    text-align: center;
+    padding-top: 6%;
+    color: white;
+}
+.Chess p {
+    font-family: "Montserrat", serif;
+    text-align: center;
+    color: white;
+}
+.Chess {
+    width: 100%;
+    height: 50%;
+    background-image: url(anBn-36765471361.jpeg);
+    background-position: center;
+    background-size: cover;
+    border-width: 2px;
+    border-radius: 25px;
+    border-style: hidden;
+}
+.bottom {
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+}
+.bottom h1 {
+    font-family: "Oswald", serif;
+}
+.bottom p {
+    font-family: "Montserrat", serif;
+}
