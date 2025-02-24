@@ -1,0 +1,159 @@
+.top {
+    margin-top: 20px;
+    display: flex;
+}
+.top img {
+    margin-left: 10px;
+}
+.top p {
+    margin-left: 100px;
+    font-size: large;
+    font-family: "Montserrat", serif;
+}
+.f1 {
+    display: flex;
+    border-color: black;
+    border-style: solid;
+    border-radius: 25px;
+}
+.f1 p {
+    font-family: "Montserrat", serif;
+}
+.f1 img {
+    width: 200px;
+    height: 200px;
+    margin: 25px 25px 25px 25px;
+}
+.f1 h1 {
+    font-family: "Oswald", serif;
+    text-align: center;
+}
+.f1f {
+    margin-left: 50px;
+    margin-top: 2.5%;
+}
+.f2 {
+    margin-top: 10px;
+    display: flex;
+    border-color: black;
+    border-style: solid;
+    border-radius: 25px;
+}
+.f2 img {
+    width: 200px;
+    height: 200px;
+    margin: 25px 25px 25px 25px;
+}
+.f2 h1 {
+    font-family: "Oswald", serif;
+    text-align: center;
+}
+.f2 p {
+    font-family: "Montserrat", serif;
+}
+.f2f {
+    margin-left: 50px;
+    margin-top: 2.5%;
+}
+.f3 {
+    margin-top: 10px;
+    display: flex;
+    border-color: black;
+    border-style: solid;
+    border-radius: 25px;
+}
+.f3 img {
+    width: 200px;
+    height: 200px;
+    margin: 25px 25px 25px 25px;
+}
+.f3 h1 {
+    font-family: "Oswald", serif;
+    text-align: center;
+}
+.f3 p {
+    font-family: "Montserrat", serif;
+}
+.f3f {
+    margin-left: 50px;
+    margin-top: 2.5%;
+}
+.f4 {
+    margin-top: 10px;
+    display: flex;
+    border-color: black;
+    border-style: solid;
+    border-radius: 25px;
+}
+.f4 img {
+    width: 200px;
+    height: 200px;
+    margin: 25px 25px 25px 25px;
+}
+.f4 h1 {
+    font-family: "Oswald", serif;
+    text-align: center;
+}
+.f4 p {
+    font-family: "Montserrat", serif;
+}
+.f4f {
+    margin-left: 50px;
+    margin-top: 2.5%;
+}
+.f5 {
+    margin-top: 10px;
+    display: flex;
+    border-color: black;
+    border-style: solid;
+    border-radius: 25px;
+}
+.f5 img {
+    width: 200px;
+    height: 200px;
+    margin: 25px 25px 25px 25px;
+}
+.f5 h1 {
+    font-family: "Oswald", serif;
+    text-align: center;
+}
+.f5 p {
+    font-family: "Montserrat", serif;
+}
+.f5f {
+    margin-left: 50px;
+    margin-top: 2.5%;
+}
+.f6 {
+    margin-top: 10px;
+    display: flex;
+    border-color: black;
+    border-style: solid;
+    border-radius: 25px;
+}
+.f6 img {
+    width: 200px;
+    height: 200px;
+    margin: 25px 25px 25px 25px;
+}
+.f6 h1 {
+    font-family: "Oswald", serif;
+    text-align: center;
+}
+.f6 p {
+    font-family: "Montserrat", serif;
+}
+.f6f {
+    margin-left: 50px;
+    margin-top: 2.5%;
+}
+.bottom {
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+}
+.bottom h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+.bottom p {
+    font-family: "Montserrat", serif;
+}
